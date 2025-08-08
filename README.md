@@ -1,5 +1,9 @@
 # Telecom-X-Parte-2-Predicci-n-de-Cancelaci-n-Churn-
-# 📦 Churn Prediction para Telecom X
+# 📦 Churn Prediction para Telecom X Part 2
+
+<p align="center">
+  <img src="/Portada.png" alt="Churn Prediction Banner" width="800"/>
+</p>
 
 Este proyecto aplica técnicas de Machine Learning para predecir la cancelación de clientes en una empresa de telecomunicaciones. Se construyó un pipeline robusto y reproducible, con visualizaciones claras y recomendaciones accionables para stakeholders.
 
@@ -37,6 +41,9 @@ La cancelación de clientes (churn) representa una pérdida significativa para e
 ---
 
 ## 🧪 Metodología
+<p align="center">
+  <img src="/Matrix.png" alt="Churn Prediction Banner" width="800"/>
+</p>
 
 1. **Preprocesamiento**: limpieza, codificación, balanceo (SMOTE), normalización.
 2. **EDA**: visualización de distribuciones, correlaciones y outliers.
@@ -55,6 +62,9 @@ La cancelación de clientes (churn) representa una pérdida significativa para e
 ---
 
 ## 📈 Visualizaciones
+<p align="center">
+  <img src="/Modelos.png" alt="Churn Prediction Banner" width="800"/>
+</p>
 
 - 🔥 Heatmaps de correlación
 - 🎻 Violinplots por tipo de contrato
