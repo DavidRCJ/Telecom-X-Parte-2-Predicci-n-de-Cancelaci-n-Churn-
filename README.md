@@ -2,6 +2,7 @@
 # 📦 Churn Prediction para Telecom X
 
 Este proyecto aplica técnicas de Machine Learning para predecir la cancelación de clientes en una empresa de telecomunicaciones. Se construyó un pipeline robusto y reproducible, con visualizaciones claras y recomendaciones accionables para stakeholders.
+
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/david-ml/telecom-churn/blob/main/churn_analysis.ipynb)
 
 
